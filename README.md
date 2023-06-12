@@ -17,6 +17,7 @@ A collection of awesome open source codebases worth exploring.
 - [E-Shop with Micro Frontends](https://github.com/alan2207/e-shop-with-mf) - Micro frontend based E-shop app composed with Module Federation
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Fast Feedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
+- [Fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your REST API
 - [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
 - [Highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
 - [Jira Clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
