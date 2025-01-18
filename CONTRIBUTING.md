@@ -12,3 +12,5 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 
 Thank you for your suggestions!
+
+ Beautiful is better than ugly. / Simple is better than complex.
