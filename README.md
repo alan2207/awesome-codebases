@@ -4,6 +4,7 @@ A collection of awesome open source codebases worth exploring.
 
 - [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
+- [Bifrost](https://github.com/maximhq/bifrost) - [Bifrost](https://www.getmaxim.ai/bifrost/) is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput.
 - [Bluesky Social](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs) - Implementation of a bulletproof node.js API
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications.
