@@ -2,7 +2,6 @@
 
 A collection of awesome open source codebases worth exploring.
 
-- [Supabase](https://github.com/supabase/supabase) - An open-source Firebase alternative built on Postgres with auth, storage, and edge functions.
 - [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Bluesky Social](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -34,6 +33,7 @@ A collection of awesome open source codebases worth exploring.
 - [Readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [Realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [RoomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
+- [Supabase](https://github.com/supabase/supabase) - An open-source Firebase alternative built on Postgres with auth, storage, and edge functions.
 - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [Takenote](https://github.com/taniarascia/takenote) - A web-based notes app for developers.
 - [Taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
