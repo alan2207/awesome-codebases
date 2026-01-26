@@ -2,6 +2,7 @@
 
 A collection of awesome open source codebases worth exploring.
 
+- [Supabase](https://github.com/supabase/supabase) - An open-source Firebase alternative built on Postgres with auth, storage, and edge functions.
 - [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Bluesky Social](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
