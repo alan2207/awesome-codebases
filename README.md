@@ -2,6 +2,7 @@
 
 A collection of awesome open source codebases worth exploring.
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Bluesky Social](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -29,6 +30,7 @@ A collection of awesome open source codebases worth exploring.
 - [Next Enterprise](https://github.com/Blazity/next-enterprise) - An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 - [Next.js Prisma Boilerplate](https://github.com/nemanjam/nextjs-prisma-boilerplate) - Full stack boilerplate with Next.js, Prisma, Tailwind, TypeScript, Docker, Postgres, documentation, frontend and backend unit and integration tests with Jest, Cypress end-to-end tests, Github Actions CI/CD workflows, and production deployment with Traefik and Docker.
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [Rally](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [Readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [Realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
