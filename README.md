@@ -18,6 +18,7 @@ A collection of awesome open source codebases worth exploring.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Fast Feedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
 - [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
+- [Glim](https://github.com/NeoPanic/Glim) - A macOS file viewer with a Rust/GPUI Kit UI, separate app/services/core crates, and native document readers.
 - [Highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
 - [Jira Clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
