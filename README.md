@@ -25,6 +25,7 @@ A collection of awesome open source codebases worth exploring.
 - [Koel](https://github.com/koel/koel) - A personal music streaming server that works.
 - [Maglit](https://github.com/NayamAmarshe/MagLit) - MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [Mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [Medusa](https://github.com/medusajs/medusa) - Open-source commerce platform for developers: a modular TypeScript backend with an admin dashboard and a Next.js storefront starter.
 - [Nextjs Github Browser](https://github.com/topheman/nextjs-github-browser) - Browse github through a website made in NextJS
 - [Next Enterprise](https://github.com/Blazity/next-enterprise) - An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 - [Next.js Prisma Boilerplate](https://github.com/nemanjam/nextjs-prisma-boilerplate) - Full stack boilerplate with Next.js, Prisma, Tailwind, TypeScript, Docker, Postgres, documentation, frontend and backend unit and integration tests with Jest, Cypress end-to-end tests, Github Actions CI/CD workflows, and production deployment with Traefik and Docker.
